@@ -1,3 +1,5 @@
+//Print all numbers from 1 to n in for loop
+
 #include<stdio.h>
 int main()
 {
